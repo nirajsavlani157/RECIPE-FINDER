@@ -35,7 +35,7 @@ Icons & UI: Lucide Icons, Shadcn/UI
 
 Clone the repo
 
-git clone https://github.com/SatyamPandey-07/RECIPE-FINDER.git
+git clone https://github.com/nirajsavlani157/RECIPE-FINDER.git
 cd recipe-finder
 Install dependencies
 
